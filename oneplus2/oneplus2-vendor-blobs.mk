@@ -52,7 +52,7 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libbtnv.so:/system/vendor/lib64/libbtnv.so \
         vendor/oneplus/oneplus2/proprietary/bin/mm-qcamera-app:/system/bin/mm-qcamera-app \
         vendor/oneplus/oneplus2/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
-        vendor/oneplus/oneplus2/proprietary/lib/hw/camera.msm8994.so:/system/lib/hw/camera.msm8994.so \
+        vendor/oneplus/oneplus2/proprietary/lib/hw/camera.vendor.msm8994.so:/system/lib/hw/camera.vendor.msm8994.so \
         vendor/oneplus/oneplus2/proprietary/lib/libFNVfbEngineLib.so:/system/lib/libFNVfbEngineLib.so \
         vendor/oneplus/oneplus2/proprietary/lib/libmm-qcamera.so:/system/lib/libmm-qcamera.so \
         vendor/oneplus/oneplus2/proprietary/lib/libmmcamera_interface.so:/system/lib/libmmcamera_interface.so \
